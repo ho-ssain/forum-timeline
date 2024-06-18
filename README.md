@@ -12,10 +12,6 @@ This is a React-based forum timeline application that fetches and displays posts
 - **Animations:** Smooth animations are used for displaying posts and comments.
 - **Error Boundary:** Handles any runtime errors gracefully by displaying a fallback UI.
 
-## Demo
-
-You can view a live demo of this application at [https://forum-timeline-app.netlify.app](https://forum-timeline-app.netlify.app)
-
 ---
 
 ## Technologies Used
