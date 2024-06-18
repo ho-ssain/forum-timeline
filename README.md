@@ -99,4 +99,8 @@ useFetchData.ts: Fetches posts, users, and comments from the API and handles loa
 - themes/index.ts: Defines light and dark themes using Material-UI's theming capabilities.
   Screenshots
 - Light Mode
+
+  ![light-preview](./public/light-preview.png)
+
 - Dark Mode
+  ![dark-preview](./public/dark-preview.png)
